@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, HTML, CSS, Tailwind, Javascript etc**
 
-- 📫 How to reach me **noxblock.co@gmail.com**
+- 📫 How to reach me **noxbloc@gmail.com**
 
 
 <p align="left">
